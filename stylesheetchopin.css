@@ -1,0 +1,26 @@
+body {
+    background-color: #9c909097;
+}
+
+h1 {
+    font-size: 36pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(223, 31, 31);
+    text-align: center;
+}
+
+#chopinglogo {
+    display: block;
+    float: left;
+    border: 1px solid black;
+    margin-left: 80px;
+}
+
+#chopintoernooi {
+    size: 50%;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
